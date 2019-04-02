@@ -21,12 +21,143 @@ header, section {
 
 .experience {
 	display: inline-block;
-	clear: both;
 	margin-top: 30px;
 	text-align: center;
 }
 
 header, .experience {
-	border: 2px solid #E13A63;
+	border: 3px solid #E13A63;
 	padding: 10px;
+}
+
+
+@media screen and (min-width :320px) and (max-width:568px){
+#headshot{
+	position: absolute;
+	left:150px;
+	background-size: contain;
+	height: auto;
+	width: 100px;
+	bottom: -130px
+
+
+}
+
+.right h1{
+	left:10px;
+	top:10px;
+	font-size-adjust: inherit;
+	margin-inline-start: -83px;
+	margin-top: -22px;
+	position: relative;
+
+}
+
+.right h2{
+	left:10px;
+	top:10px;
+	font-size-adjust: inherit;
+	margin-inline-start: -81px;
+	margin-top: 144px;
+	position: relative;
+}
+
+p{
+	left:-12px;
+	top:10px;
+	font-size-adjust: inherit;
+	margin-inline-start: -69px;
+	margin-top: 10px;
+	position: relative;
+	
+}
+
+header, section{
+	display: inline-block;
+	width: 265px;
+	height: auto;
+	right:10px;
+	margin-block-start: 1px;
+	margin-inline-start: -66px;
+
+
+}
+
+.left{
+	left:-12px;
+	top:10px;
+	font-size-adjust: inherit;
+	margin-inline-start: -69px;
+	margin-top: 10px;
+	position: relative;
+	text-align: center;
+
+}
+
+section.right{
+	left:24px;
+	top:-8px;
+	font-size-adjust: inherit;
+	margin-inline-start: 132px;
+	margin-top: 10px;
+	position: relative;
+	width:140%;
+
+}
+
+section.right h3{
+	text-align: center;
+	padding: 10px;
+
+}
+
+section.left{
+	padding-left: 13px;
+	position: relative;
+	left: 100px;
+	width:112%;
+	left:37px;
+	top:0px;
+	text-align: center;
+
+}
+
+
+
+section.left h3{
+	
+	left: 10px;
+	position: relative
+
+}
+
+section.left p{
+	left: 10px;
+	position: relative;
+	text-align: center;
+
+}
+ /*
+section .right li{
+	text-align: center;
+	position: relative;
+	font-size-adjust: inherit;
+	margin-top: 10px;
+
+}*/
+
+.experience p {
+	position: relative;
+	text-align: center;
+	font-size-adjust: inherit;
+	width:95%;
+	right:10px;
+	margin-inline-start: 19px;
+
+	
+}
+
+
+ 
+
 }
