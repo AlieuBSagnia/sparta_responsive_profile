@@ -19,3 +19,11 @@ Here are some helpful hints to get you started:
 
  1. Have two breakpoints, giving a mobile, tablet and desktop view
  2. Simplify your CSS as much as possible - prizes for the least lines of CSS code!
+ 
+ ## Completed task
+ > " Below are snapshots of the completed task"
+ 
+ ![Picture](images/Capture1.PNG)
+ > " Optimized for Iphone 5 "
+ ![Picture](images/Capture2.PNG)
+  > " Optimized for Iphone 5 "
