@@ -24,6 +24,8 @@ Here are some helpful hints to get you started:
  > " Below are snapshots of the completed task"
  
  ![Picture](images/Capture1.PNG)
- > " Optimized for Iphone 5 "
+ > " Optimized for Iphone 5 using media queries "
+ 
+ 
  ![Picture](images/Capture2.PNG)
-  > " Optimized for Iphone 5 "
+  > " Optimized for Iphone 5 using media queries"
